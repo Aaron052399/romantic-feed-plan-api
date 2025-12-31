@@ -1,0 +1,15 @@
+export default {
+    id: 'id',
+    data_table: 'data_table',
+    admin_id: 'admin_id',
+    admin__username: 'username',
+    file: 'file',
+    records: 'records',
+    import_success_records: 'import success records',
+    radio: 'radio',
+    'radio upload': 'radio upload',
+    'radio import': 'radio import',
+    'radio cancel': 'radio cancel',
+    create_time: 'create_time',
+    'quick Search Fields': 'id',
+}

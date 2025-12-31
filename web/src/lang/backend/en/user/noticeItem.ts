@@ -1,0 +1,15 @@
+export default {
+    id: 'id',
+    name: 'name',
+    title: 'title',
+    module: 'module',
+    group: 'group',
+    type_names: 'type_names',
+    typenamestable__title: 'type name',
+    remark: 'remark',
+    status: 'status',
+    'status 0': 'status 0',
+    'status 1': 'status 1',
+    create_time: 'create_time',
+    'quick Search Fields': 'id、title、name',
+}

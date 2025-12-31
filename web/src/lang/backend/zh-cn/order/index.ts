@@ -1,0 +1,17 @@
+export default {
+    id: '订单ID',
+    order_no: '订单编号',
+    user_id: '下单用户ID',
+    cook_id: '厨师ID',
+    total_amount: '订单总金额（元）',
+    status: '订单状态',
+    'status pending': '待制作',
+    'status cooking': '制作中',
+    'status completed': '已完成',
+    'status cancelled': '已取消',
+    note: '用户备注',
+    create_time: '创建时间',
+    update_time: '更新时间',
+    delete_time: '软删除时间',
+    'quick Search Fields': '订单ID',
+}
