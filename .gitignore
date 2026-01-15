@@ -45,3 +45,6 @@ pnpm-debug.log*
 *.local
 !.gitkeep
 .svn
+.history
+.trae
+docs/

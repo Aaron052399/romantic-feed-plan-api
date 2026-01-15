@@ -70,7 +70,7 @@ class Api extends BaseController
      * @param array       $header  发送的 header 信息
      * @param array       $options Response 输出参数
      */
-    protected function success(string $msg = '', mixed $data = null, int $code = 1, string $type = null, array $header = [], array $options = []): void
+    protected function success(string $msg = '', mixed $data = null, int $code = 200, string $type = null, array $header = [], array $options = []): void
     {
         $this->result($msg, $data, $code, $type, $header, $options);
     }
